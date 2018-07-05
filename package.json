@@ -1,0 +1,19 @@
+{
+  "name": "object-defineproperty-ie8",
+  "version": "1.0.0",
+  "description": "fix ie8 Object.defineProperty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubyLouvre/object-defineproperty-ie8.git"
+  },
+  "author": "rubylouvre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RubyLouvre/object-defineproperty-ie8/issues"
+  },
+  "homepage": "https://github.com/RubyLouvre/object-defineproperty-ie8#readme"
+}
