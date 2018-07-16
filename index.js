@@ -22,7 +22,7 @@ if (!supportsDescriptors) {
     if (origDefineProperty && a.nodeType == 1) {
       return origDefineProperty(a, b, c);
     } else {
-      a[b] = c.value;
+      a[b] = c.value || (c.get && c.get());
     }
   };
 }
