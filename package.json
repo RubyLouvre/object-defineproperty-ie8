@@ -1,6 +1,6 @@
 {
   "name": "object-defineproperty-ie8",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "fix ie8 Object.defineProperty",
   "main": "index.js",
   "scripts": {
